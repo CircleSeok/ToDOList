@@ -1,0 +1,47 @@
+header {
+  font-weight: bold;
+  font-size: 100px;
+}
+
+p {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.input_section {
+  font-size: 50px;
+  border-radius: 20px;
+  border: 1px solid black;
+  padding: 50px;
+}
+.input_section input {
+  width: 200px;
+  height: 40px;
+  margin-bottom: px;
+}
+
+.input_section button {
+  width: 90px;
+  height: 50px;
+  margin-left: 130px;
+  background-color: black;
+  color: white;
+}
+
+.showTodo {
+  display: flex;
+}
+
+.todo {
+  border-radius: 20px;
+  background-color: mediumspringgreen;
+  margin: 30px;
+  width: 20rem;
+  display: flex;
+  flex-direction: column;
+}
+.todo button {
+  padding: 10px;
+  border-radius: 10px;
+  background-color: white;
+}
